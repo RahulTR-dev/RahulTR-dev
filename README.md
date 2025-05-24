@@ -33,13 +33,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulTR-dev&show_icons=true&theme=default" alt="Rahul's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTR-dev&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulTR-dev&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTR-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 
 ### 🌐 Connect With Me
