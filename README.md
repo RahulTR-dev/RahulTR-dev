@@ -13,7 +13,7 @@
 - 💻 Junior Software Developer at **ScorpiQ**
 - 🛠️ Full-stack developer specializing in **Python**, **Django**, and **React**
 - 📈 Currently leveling up in **API design**, **PostgreSQL**, and **modern frontend tooling**
-- 📫 Reach me at: [rahultr.dev@gmail.com](mailto:rahultr.dev@gmail.com)
+- 📫 Reach me at: [trahul33@gmail.com](mailto:trrahul33@gmail.com)
 
 ---
 
@@ -41,28 +41,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulTR-dev&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
----
-
-### 🛠️ Featured Projects
-
-- 📝 **Notebook-style Quiz App** – A beautiful Django app for student Q&A  
-  🔗 [View on GitHub](https://github.com/RahulTR-dev/quiz-notebook)
-
-- 📚 **Course Learning Website** – A React + FastAPI platform for structured content  
-  🔗 [View on GitHub](https://github.com/RahulTR-dev/course-website)
-
-- ⚽ **Football QA Bot** – An LLM-based assistant for football clubs  
-  🔗 [View on GitHub](https://github.com/RahulTR-dev/football-qa)
-
----
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahultr-dev/">
+  <a href="https://www.linkedin.com/in/rahul-t-r-316226260/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:rahultr.dev@gmail.com">
+  <a href="mailto:trrahul33@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RahulTR-dev">
